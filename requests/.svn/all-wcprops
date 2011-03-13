@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/147/trunk/requests
+END
+stun.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/56/trunk/requests/stun.py
+END
+trend.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/88/trunk/requests/trend.py
+END
+ndmp.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/56/trunk/requests/ndmp.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/56/trunk/requests/__init__.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/147/trunk/requests/http.py
+END
+mcafee.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/147/trunk/requests/mcafee.py
+END
+ldap.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/56/trunk/requests/ldap.py
+END
+xbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/56/trunk/requests/xbox.py
+END
+___REQUESTS___.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/requests/___REQUESTS___.html
+END
+rendezvous.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/56/trunk/requests/rendezvous.py
+END
+jabber.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/56/trunk/requests/jabber.py
+END
+hp.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/130/trunk/requests/hp.py
+END

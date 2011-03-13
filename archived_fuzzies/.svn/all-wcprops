@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/148/trunk/archived_fuzzies
+END
+fuzz_trend_control_manager_20901.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/56/trunk/archived_fuzzies/fuzz_trend_control_manager_20901.py
+END
+fuzz_trillian_jabber.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134/trunk/archived_fuzzies/fuzz_trillian_jabber.py
+END
+mdns.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/148/trunk/archived_fuzzies/mdns.py
+END
+fuzz_trend_server_protect_5168.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/134/trunk/archived_fuzzies/fuzz_trend_server_protect_5168.py
+END

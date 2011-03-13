@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/70/trunk/sulley/legos
+END
+ber.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/56/trunk/sulley/legos/ber.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/sulley/legos/misc.py
+END
+xdr.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/56/trunk/sulley/legos/xdr.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/sulley/legos/__init__.py
+END
+dcerpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/56/trunk/sulley/legos/dcerpc.py
+END
