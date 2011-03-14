@@ -224,7 +224,7 @@ class group (base_primitive):
             return False
 
         # step through the value list.
-        #TODO: Figure out why we have two of the same values
+        #TODO: Figure out why we have two of the same values.
         while self.value == self.values[self.mutant_index]:
             self.mutant_index += 1
 

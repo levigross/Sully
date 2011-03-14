@@ -36,7 +36,7 @@ class request (pgraph.node):
 
     def mutate (self):
         mutated = False
-
+        #TODO: Add correct error clauses
         for item in self.stack:
             if item.fuzzable and item.mutate():
                 mutated = True
